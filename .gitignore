@@ -36,4 +36,11 @@ sysinfo.txt
 *.unitypackage
 
 # Oculus
+*/Assets/Third_Party_Assets/
 /Assets/Third_Party_Assets/
+*/Assets/Plugins/
+/Assets/Plugins/
+*/Assets/Resources
+/Assets/Resources
+*meta
+
