@@ -247,7 +247,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 208023311}
-  m_Material: {fileID: 13400000, guid: 6dbc72f745ef8914c9885faa6a6b8c39, type: 2}
+  m_Material: {fileID: 13400000, guid: e00187e8157fb4f429af274cca99bde2, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -590,7 +590,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 799080839}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92bfd69e09f2688448dfac122c3123ee, type: 3}
+  m_Script: {fileID: 11500000, guid: c74d8abb7c272094ab2950911ec56f0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!199 &799080845
@@ -704,7 +704,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 309846850
+  randomSeed: -730582462
   InitialModule:
     serializedVersion: 3
     enabled: 1
