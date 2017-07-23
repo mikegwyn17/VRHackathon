@@ -11,7 +11,7 @@ public class Grab : MonoBehaviour {
 
     private GameObject grabbedObject;
     private bool grabbing;
-    private Quaternion lastRotation, currentRotation
+    private Quaternion lastRotation, currentRotation;
 
     void GrabObject()
     {
